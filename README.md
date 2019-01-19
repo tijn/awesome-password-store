@@ -22,7 +22,8 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * [pass-age](https://github.com/taylorskalyo/pass-age) A simple pass extension for displaying password age. *(There are two extensions with this name; this one shows the time of the last git commit.)*
 * [pass-age](https://github.com/tijn/pass-age): A pass extension to show you how long you are using a certain password. *(There are two extensions with this name; this one shows the last time when the first line in a password file changed.)*
-* [pass-audit](https://gitlab.com/roddhjav/pass-audit): A pass extension for auditing your password repository.
+* [pass-audit](https://gitlab.com/roddhjav/pass-audit): A pass extension for auditing your password repository. *(There are two extensions with this name; this one checks Have I Been Pwned)*
+* [pass-audit](https://github.com/benburwell/pass-audit): A pass extension for checking whether your passwords may be compromised. *(There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)*
 * [pass-hibp](https://gitlab.com/moviuro/pass-hibp/): A pass extension that queries the haveibeenpwned.com API.
 * [pass-pwned](https://github.com/alzeih/pass-pwned/): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.
 * [pass-report](https://github.com/Kdecherf/pass-report): A pass extension that reports age and length of passwords.
