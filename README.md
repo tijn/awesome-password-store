@@ -4,9 +4,20 @@
 
 Additions and improvements are welcome! Please make pull-requests.
 
+
+1. [extensions](#extensions)
+  1. [auditing](#auditing)
+  1. [clipboard](#clipboard)
+  1. [output](#output)
+  1. [import](#import)
+  1. [generators](#generators)
+  1. [All other extensions](#all_other_extensions)
+1. [Interfaces](#interfaces)
+
+
 ## Extensions
 
-### Auditing passwords
+### Auditing
 
 * [pass-age](https://github.com/taylorskalyo/pass-age) A simple pass extension for displaying password age *There are two extensions with this name; this one shows the time of the last git commit*
 * [pass-age](https://github.com/tijn/pass-age): A pass extension to show you how long you are using a certain password. *There are two extensions with this name; this one shows the last time the first line in a password file changed*
