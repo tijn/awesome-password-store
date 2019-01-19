@@ -5,14 +5,14 @@
 Additions and improvements are welcome! Please make pull-requests.
 
 
-1. [extensions](#extensions)
+- [extensions](#extensions)
   - [auditing](#auditing)
   - [clipboard](#clipboard)
   - [output](#output)
   - [import](#import)
   - [generators](#generators)
   - [All other extensions](#all-other-extensions)
-1. [Interfaces](#interfaces)
+- [Interfaces](#interfaces)
 
 
 ## Extensions
