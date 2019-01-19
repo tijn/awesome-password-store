@@ -6,12 +6,12 @@ Additions and improvements are welcome! Please make pull-requests.
 
 
 1. [extensions](#extensions)
-  1. [auditing](#auditing)
-  1. [clipboard](#clipboard)
-  1. [output](#output)
-  1. [import](#import)
-  1. [generators](#generators)
-  1. [All other extensions](#all_other_extensions)
+  - [auditing](#auditing)
+  - [clipboard](#clipboard)
+  - [output](#output)
+  - [import](#import)
+  - [generators](#generators)
+  - [All other extensions](#all-other-extensions)
 1. [Interfaces](#interfaces)
 
 
