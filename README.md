@@ -4,6 +4,7 @@
 
 Additions and improvements are welcome! Please make pull-requests.
 
+#### Contents
 
 - [extensions](#extensions)
   - [auditing](#auditing)
