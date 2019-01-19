@@ -66,11 +66,12 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * [Android-Password-Store](https://github.com/zeapo/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
 * [gopass-tui](https://github.com/leitzler/gopass-tui): Terminal UI for pass/gopass
-* [pass-gui](https://github.com/mexus/pass-gui): A minimalistic GUI for a unix "password store" application
+* [ob-pass-menu](https://github.com/denimor/ob-pass-menu): [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
 * [pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion): pass zsh completion plugin
 * [passff](https://github.com/passff/passff): zx2c4 pass manager extension for Firefox, Chrome and Opera
 * [passforios](https://github.com/mssun/passforios): Pass for iOS - an iOS client compatible with Pass command line application
 * [PassHUD](https://github.com/mnussbaum/PassHUD): A HUD-style interface for pass on macOS
-* [passman](https://github.com/TheAmazingPT/passman): A dmenu frontend for password-store
+* [passman](https://github.com/TheAmazingPT/passman): A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store
+* [pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass): Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/))
 * [tmux-pass](https://github.com/rafi/tmux-pass): Quick password-store browser with preview using fzf in tmux.
 * [vim-password-store](https://github.com/fourjay/vim-password-store): Vim niceties for password store
