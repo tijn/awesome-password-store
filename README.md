@@ -69,6 +69,7 @@ Additions and improvements are welcome! Please make pull-requests.
 ## Interfaces
 
 * [Android-Password-Store](https://github.com/zeapo/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application.
+* [browserpass](https://github.com/browserpass/browserpass): Chrome & Firefox browser extension for pass
 * [gopass-tui](https://github.com/leitzler/gopass-tui): Terminal UI for pass/gopass.
 * [ob-pass-menu](https://github.com/denimor/ob-pass-menu): [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
 * [pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion): pass zsh completion plugin.
@@ -79,4 +80,3 @@ Additions and improvements are welcome! Please make pull-requests.
 * [pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass): Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * [tmux-pass](https://github.com/rafi/tmux-pass): Quick password-store browser with preview using fzf in tmux.
 * [vim-password-store](https://github.com/fourjay/vim-password-store): Vim niceties for password store.
-* [browserpass](https://github.com/browserpass/browserpass): Chrome & Firefox browser extension for pass
