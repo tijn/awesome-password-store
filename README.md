@@ -48,6 +48,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### Generators
 
+* [pass-gen](https://passgen.codesections.com/): A command-line utility that generates secure, pronounceable passphrases for pass.
 * [pass-genphrase](https://github.com/congma/pass-genphrase): Passphrase generator extension for pass, the password manager.
 * [pass-qr](https://github.com/codekoala/pass-qr) A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi
 * [pass-ssh](https://github.com/ibizaman/pass-ssh): A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.
