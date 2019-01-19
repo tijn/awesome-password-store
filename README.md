@@ -22,7 +22,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * [pass-age](https://github.com/taylorskalyo/pass-age) A simple pass extension for displaying password age. *(There are two extensions with this name; this one shows the time of the last git commit.)*
 * [pass-age](https://github.com/tijn/pass-age): A pass extension to show you how long you are using a certain password. *(There are two extensions with this name; this one shows the last time when the first line in a password file changed.)*
-* [pass-audit](https://gitlab.com/roddhjav/pass-audit): A pass extension for auditing your password repository. *(There are two extensions with this name; this one checks Have I Been Pwned)*
+* [pass-audit](https://gitlab.com/roddhjav/pass-audit): A pass extension for auditing your password repository. *(There are two extensions with this name; this one checks Have I Been Pwned.)*
 * [pass-audit](https://github.com/benburwell/pass-audit): A pass extension for checking whether your passwords may be compromised. *(There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)*
 * [pass-hibp](https://gitlab.com/moviuro/pass-hibp/): A pass extension that queries the haveibeenpwned.com API.
 * [pass-pwned](https://github.com/alzeih/pass-pwned/): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.
@@ -50,7 +50,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### Generators
 
-* [pass-gen](https://passgen.codesections.com/): A command-line utility that generates secure, pronounceable passphrases for pass. *(It won't add a new pass command, but can be used seamlessly with pass.)*
+* [pass-gen](https://passgen.codesections.com/): A command-line utility that generates secure, pronounceable passphrases for pass. *(It won't add a new pass command but can be used seamlessly with pass.)*
 * [pass-genphrase](https://github.com/congma/pass-genphrase): Passphrase generator extension for pass, the password manager.
 * [pass-qr](https://github.com/codekoala/pass-qr) A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi.
 * [pass-ssh](https://github.com/ibizaman/pass-ssh): A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.
