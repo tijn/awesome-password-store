@@ -26,6 +26,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * [pass-audit](https://github.com/benburwell/pass-audit): A pass extension for checking whether your passwords may be compromised. *(There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)*
 * [pass-hibp](https://gitlab.com/moviuro/pass-hibp/): A pass extension that queries the haveibeenpwned.com API.
 * [pass-pwned](https://github.com/alzeih/pass-pwned/): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.
+* [jamesridgway/pass-pwned](https://github.com/jamesridgway/pass-pwned): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API or an offline password hash file of your choosing.
 * [pass-report](https://github.com/Kdecherf/pass-report): A pass extension that reports age and length of passwords.
 
 ### Clipboard
