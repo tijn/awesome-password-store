@@ -65,6 +65,8 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-otp](https://github.com/tadfisher/pass-otp)**: support for one-time-password (OTP) tokens.
 * **[pass-tomb](https://github.com/roddhjav/pass-tomb)**: helps you to keep the whole tree of password encrypted inside a tomb.
 * **[pass-update](https://gitlab.com/roddhjav/pass-update)**: an easy flow for updating passwords.
+* **[pass-grave](https://github.com/8go/pass-grave)**: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).
+* **[pass-backup](https://github.com/8go/pass-backup)**: makes making a time-stamped backup simple and easy.
 
 ## Interfaces
 
