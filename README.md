@@ -76,6 +76,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[gopass-tui](https://github.com/leitzler/gopass-tui)**: Terminal UI for pass/gopass.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
+* **[pass-companion](https://github.com/kakolisgay/pass-companion)**: Chrome/Chromium browser extension for pass.
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
 * **[Passafari](https://github.com/adur1990/Passafari)** Safari app extension for pass.
 * **[passff](https://github.com/passff/passff)**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
