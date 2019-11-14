@@ -44,9 +44,24 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### Import
 
+* **[1password2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/1password2pass.rb)**: imports 1Password txt or 1pif data
+* **[firefox_decrypt](https://github.com/Unode/firefox_decrypt)**: full blown Firefox password interface, which supports exporting to pass
+* **[fpm2pass.pl:](https://git.zx2c4.com/password-store/tree/contrib/importers/fpm2pass.pl)**: imports Figaro's Password Manager XML data
+* **[gorilla2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/gorilla2pass.rb)**: imports Password Gorilla data
+* **[kedpm2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/kedpm2pass.py)**: imports Ked Password Manager data
+* **[keepass2csv2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/keepass2csv2pass.py)**: imports Keepass2 CSV data
+* **[keepass2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/keepass2pass.py)**: imports Keepass2 XML data
+* **[keepassx2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/keepassx2pass.py)**: imports KeepassX XML data
+* **[kwallet2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/kwallet2pass.py)**: imports KWallet data
+* **[lastpass2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/lastpass2pass.rb)**: imports Lastpass CSV data
 * **[pass-file](https://github.com/dvogt23/pass-file)** (by [dvogt23](https://github.com/dvogt23)): A pass extension that allows to add files to password-store.
 * **[pass-file](https://github.com/lukrop/pass-file)** (by [lukrop](https://github.com/lukrop)): A pass extension for adding arbitary files to the password store.
 * **[pass-import](https://github.com/roddhjav/pass-import)**: a generic importer tool from other password managers.
+* **[password-exporter2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/password-exporter2pass.py)**: imports password-exporter data 
+* **[pwsafe2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/pwsafe2pass.py)**: imports PWSafe data (python version)
+* **[pwsafe2pass.sh](https://git.zx2c4.com/password-store/tree/contrib/importers/pwsafe2pass.sh)**: imports PWSafe data
+* **[revelation2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/revelation2pass.py)**: imports Revelation Password Manager data
+* **[roboform2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/roboform2pass.rb)**: imports Roboform data
 
 ### Generators
 
