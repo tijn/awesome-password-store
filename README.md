@@ -46,7 +46,7 @@ Additions and improvements are welcome! Please make pull-requests.
 ### Import
 
 * **[pass-file](https://github.com/dvogt23/pass-file)** (by [dvogt23](https://github.com/dvogt23)): A pass extension that allows to add files to password-store.
-* **[pass-file](https://github.com/lukrop/pass-file)** (by [lukrop](https://github.com/lukrop)): A pass extension for adding arbitary files to the password store.
+* **[pass-file](https://github.com/lukrop/pass-file)** (by [lukrop](https://github.com/lukrop)): A pass extension for adding arbitrary files to the password store.
 * **[pass-import](https://github.com/roddhjav/pass-import)**: a generic importer tool from other password managers.
 
 ### Generators
