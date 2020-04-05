@@ -15,6 +15,7 @@ Additions and improvements are welcome! Please make pull-requests.
   - [All other extensions](#all-other-extensions)
 - [Interfaces](#interfaces)
 - [Import scripts](#import-scripts)
+- [Export scripts](#export-scripts)
 
 ## Extensions
 
@@ -113,3 +114,7 @@ These scripts are not extensions but they can be very useful nontheless.
 * **[pwsafe2pass.sh](https://git.zx2c4.com/password-store/tree/contrib/importers/pwsafe2pass.sh)**: Import PWSafe data
 * **[revelation2pass.py](https://git.zx2c4.com/password-store/tree/contrib/importers/revelation2pass.py)**: Import Revelation Password Manager data
 * **[roboform2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/roboform2pass.rb)**: Import Roboform data
+
+## Export scripts
+
+* **[pass-export](https://github.com/dvogt23/pass-export)**: Exports data in csv format
