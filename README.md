@@ -57,6 +57,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-qr](https://github.com/codekoala/pass-qr)**: A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi.
 * **[pass-ssh](https://github.com/ibizaman/pass-ssh)**: A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.
 * **[pass-totp](https://github.com/muteor/pass-totp)**: TOTP code generator for pass.
+* **[pass-words](https://gitlab.com/entrez/pass-words)**: generate Diceware-style mnemonic passwords.
 
 ### All other extensions
 
@@ -69,7 +70,6 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-otp](https://github.com/tadfisher/pass-otp)**: support for one-time-password (OTP) tokens.
 * **[pass-tomb](https://github.com/roddhjav/pass-tomb)**: helps you to keep the whole tree of password encrypted inside a tomb.
 * **[pass-update](https://github.com/roddhjav/pass-update)**: an easy flow for updating passwords.
-* **[pass-words](https://gitlab.com/entrez/pass-words)**: generate Diceware-style mnemonic passwords.
 
 ## Interfaces
 
