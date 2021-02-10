@@ -40,6 +40,7 @@ Additions and improvements are welcome! Please make pull-requests.
 ### Output
 
 * **[pass-cl](https://github.com/elcorto/pass-cl)**: password-store extension to copy metadata from multi-line entries.
+* **[pass-csv](https://github.com/lahr/pass-csv)**: generate a CSV file from specified key-value pairs in the metadata.
 * **[pass-extension-copyq](https://github.com/vy/pass-extension-copyq)**: A pass extension that copies a stored password using copyq.
 * **[pass-extension-meta](https://github.com/rjekker/pass-extension-meta)**: password-store extension to retrieve meta-data properties from password files.
 * **[pass-extension-tail](https://github.com/palortoff/pass-extension-tail)**: A pass extension to avoid printing the password to the console.
