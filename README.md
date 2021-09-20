@@ -36,6 +36,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-extension-pclip](https://gitlab.com/lbischof/pass-extension-pclip)**: Copies meta data into primary clipboard.
 * **[pass-extension-wclip](https://github.com/palortoff/pass-extension-wclip)**: a plugin to use wclip on Windows.
 * **[pass-sclip](https://github.com/Boldewyn/pass-sclip)**: A pass extension to copy to [screen](https://www.gnu.org/software/screen/)'s paste buffer.
+* **[pass-tessen](https://github.com/ayushnix/pass-tessen)**: A pass extension that uses [fzf](https://github.com/junegunn/fzf) to copy everything, including passwords and metadata (key-value pairs) on Xorg/X11 and Wayland.
 
 ### Output
 
@@ -92,11 +93,12 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passforios](https://github.com/mssun/passforios)**: Pass for iOS - an iOS client compatible with Pass command line application.
 * **[PassHUD](https://github.com/mnussbaum/PassHUD)**: A HUD-style interface for pass on macOS.
 * **[passman](https://github.com/TheAmazingPT/passman)**: A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store.
-* **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass  
+* **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[rofi-pass](https://github.com/carnager/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
 * **[simple-pass-alfred](https://github.com/johanthoren/simple-pass-alfred)**: Alfred integration
+* **[tessen](https://github.com/ayushnix/tessen)**: An interactive menu to autotype and copy password-store data using either [bemenu](https://github.com/Cloudef/bemenu) or [rofi](https://github.com/lbonn/rofi) on Wayland.
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
 
