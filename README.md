@@ -65,6 +65,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * **[pass-backup](https://github.com/8go/pass-backup)**: makes making a time-stamped backup simple and easy.
 * **[pass-botp](https://github.com/msmol/pass-botp)**: A pass extension for managing TOTP Backup Codes.
+* **[pass-coffin](https://github.com/ayushnix/pass-coffin)**: A pass extension that hides data inside a GPG coffin
 * **[pass-extension-inc](https://github.com/diginatu/pass-extension-inc)**: A unix pass extension for incremental search.
 * **[pass-grave](https://github.com/8go/pass-grave)**: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).
 * **[pass-keybase](https://github.com/mbauhardt/pass-keybase)**: A pass extension to re-encrypt and decrypt pass entries via keybase.
