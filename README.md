@@ -86,6 +86,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
 * **[pass-alfred](https://github.com/MatthewWest/pass-alfred)**: Alfred integration
 * **[pass-companion](https://github.com/kakolisgay/pass-companion)**: Chrome/Chromium browser extension for pass.
+* **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher)**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
 * **[pass.applescript](https://git.zx2c4.com/password-store/tree/contrib/pass.applescript)**: OS X integration
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS)** macOS wrapper and Safari extension.
