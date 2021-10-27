@@ -103,6 +103,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[tessen](https://github.com/ayushnix/tessen)**: An interactive menu to autotype and copy password-store data using either [bemenu](https://github.com/Cloudef/bemenu) or [rofi](https://github.com/lbonn/rofi) on Wayland.
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
+* **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 
 ## Import scripts
 
