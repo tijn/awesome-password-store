@@ -82,6 +82,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider)**: Pass password manager search provider for gnome-shell.
 * **[gopass-tui](https://github.com/leitzler/gopass-tui)**: Terminal UI for pass/gopass.
+* **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
 * **[pass-alfred](https://github.com/MatthewWest/pass-alfred)**: Alfred integration
@@ -103,7 +104,6 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[tessen](https://github.com/ayushnix/tessen)**: An interactive menu to autotype and copy password-store data using either [bemenu](https://github.com/Cloudef/bemenu) or [rofi](https://github.com/lbonn/rofi) on Wayland.
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
-* **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 
 ## Import scripts
 
