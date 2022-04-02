@@ -69,6 +69,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-extension-inc](https://github.com/diginatu/pass-extension-inc)**: A unix pass extension for incremental search.
 * **[pass-grave](https://github.com/8go/pass-grave)**: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).
 * **[pass-keybase](https://github.com/mbauhardt/pass-keybase)**: A pass extension to re-encrypt and decrypt pass entries via keybase.
+* **[pass-ln](https://github.com/raxod502/pass-ln)**: A pass extension for creating symbolic links.
 * **[pass-mount](https://github.com/HXR/pass-mount)**: A pass extension for mounting encrypted filesystems.
 * **[pass-otp](https://github.com/tadfisher/pass-otp)**: support for one-time-password (OTP) tokens.
 * **[pass-tomb](https://github.com/roddhjav/pass-tomb)**: helps you to keep the whole tree of password encrypted inside a tomb.
