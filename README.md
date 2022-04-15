@@ -79,6 +79,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ## Interfaces
 
+* **[albert-pass](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded)**: [Albert](https://github.com/albertlauncher/albert) integration
 * **[alfred-pass](https://github.com/CGenie/alfred-pass)**: Alfred integration
 * **[Android-Password-Store](https://github.com/zeapo/Android-Password-Store)**: Android application compatible with ZX2C4's Pass command line application.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
