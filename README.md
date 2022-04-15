@@ -76,6 +76,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-tomb](https://github.com/roddhjav/pass-tomb)**: helps you to keep the whole tree of password encrypted inside a tomb.
 * **[pass-update](https://github.com/roddhjav/pass-update)**: an easy flow for updating passwords.
 * **[pass-ssh](https://github.com/not-jan/pass-ssh)**: Automatically create an SSH session from a pass entry
+* **[pass-open-doc](https://github.com/bergercookie/pass-open-doc)**: Open a file from your Password Store via xdg
 
 ## Interfaces
 
