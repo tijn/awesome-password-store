@@ -4,6 +4,8 @@ Add an entry for [name]
 Fix the address of [entry]
 Remove [entry] since [reasons]
 
+Please remove the lines that don't fit this PR.
+
 # Checklist
 
 - [ ] I made sure to keep the list in alphabetical order
