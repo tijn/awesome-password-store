@@ -36,7 +36,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-extension-pclip](https://gitlab.com/lbischof/pass-extension-pclip)**: Copies meta data into primary clipboard.
 * **[pass-extension-wclip](https://github.com/palortoff/pass-extension-wclip)**: a plugin to use wclip on Windows.
 * **[pass-sclip](https://github.com/Boldewyn/pass-sclip)**: A pass extension to copy to [screen](https://www.gnu.org/software/screen/)'s paste buffer.
-* **[pass-tessen](https://github.com/ayushnix/pass-tessen)**: A pass extension that uses [fzf](https://github.com/junegunn/fzf) to copy everything, including passwords and metadata (key-value pairs) on Xorg/X11 and Wayland.
+* **[pass-tessen](https://sr.ht/ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
 
 ### Output
 
@@ -65,7 +65,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * **[pass-backup](https://github.com/8go/pass-backup)**: makes making a time-stamped backup simple and easy.
 * **[pass-botp](https://github.com/msmol/pass-botp)**: A pass extension for managing TOTP Backup Codes.
-* **[pass-coffin](https://github.com/ayushnix/pass-coffin)**: A pass extension that hides data inside a GPG coffin
+* **[pass-coffin](https://sr.ht/ayushnix/pass-coffin)**: hide data inside a signed and encrypted coffin
 * **[pass-extension-inc](https://github.com/diginatu/pass-extension-inc)**: A unix pass extension for incremental search.
 * **[pass-grave](https://github.com/8go/pass-grave)**: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).
 * **[pass-index](https://github.com/sboesebeck/pass-index.git)**: Speed up content search
@@ -106,7 +106,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[rofi-pass](https://github.com/carnager/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
 * **[simple-pass-alfred](https://github.com/johanthoren/simple-pass-alfred)**: Alfred integration
-* **[tessen](https://github.com/ayushnix/tessen)**: An interactive menu to autotype and copy password-store data using either [bemenu](https://github.com/Cloudef/bemenu) or [rofi](https://github.com/lbonn/rofi) on Wayland.
+* **[tessen](https://sr.ht/ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
 
