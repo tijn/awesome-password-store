@@ -107,6 +107,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
 * **[Pass4Win](https://github.com/mbos/Pass4Win)**: An interface for Windows. (inactive)
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
+* **[pext_module_pass](https://github.com/Pext/pext_module_pass)**: Password management module for Pext.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
 * **[rofi-pass](https://github.com/carnager/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
