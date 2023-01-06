@@ -116,6 +116,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[simple-pass-alfred](https://github.com/johanthoren/simple-pass-alfred)**: Alfred integration
 * **[tessen](https://sr.ht/ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
+* **[upass](https://github.com/Kwpolska/upass)**: Console UI for pass.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
 
 ## Import scripts
