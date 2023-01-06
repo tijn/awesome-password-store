@@ -105,6 +105,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passman](https://github.com/TheAmazingPT/passman)**: A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store.
 * **[passmenu](https://git.zx2c4.com/password-store/tree/contrib/dmenu)**: Another [dmenu][https://tools.suckless.org/dmenu/]-based interface.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
+* **[Pass4Win](https://github.com/mbos/Pass4Win)**: An interface for Windows. (inactive)
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
