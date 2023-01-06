@@ -96,6 +96,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher)**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
 * **[pass.applescript](https://git.zx2c4.com/password-store/tree/contrib/pass.applescript)**: OS X integration
+* **[Pass for iOS](https://github.com/mssun/passforios)**: An iOS client.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS)** macOS wrapper and Safari extension.
 * **[passbar](https://gitlab.com/rperce/passbar)** Password Store integration for awesomewm.
 * **[passff](https://github.com/passff/passff)**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
