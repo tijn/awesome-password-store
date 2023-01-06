@@ -85,31 +85,31 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider)**: Pass password manager search provider for gnome-shell.
-* **[gopass](https://github.com/cortex/gopass)**: Simple UI for password-store. (UNMAINTANED)
 * **[gopass-tui](https://github.com/leitzler/gopass-tui)**: Terminal UI for pass/gopass.
+* **[gopass](https://github.com/cortex/gopass)**: Simple UI for password-store. (UNMAINTANED)
 * **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
+* **[Pass for iOS](https://github.com/mssun/passforios)**: An iOS client.
+* **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS)** macOS wrapper and Safari extension.
 * **[pass-alfred](https://github.com/MatthewWest/pass-alfred)**: Alfred integration
 * **[pass-awscli](https://gitlab.com/mjsir911/pass-awscli)**:  AWS CLI credential integration
 * **[pass-companion](https://github.com/kakolisgay/pass-companion)**: Chrome/Chromium browser extension for pass.
-* **[pass_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded)**: [Albert](https://github.com/albertlauncher/albert) integration
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper)**: A git credential helper interfacing with pass.
 * **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher)**: Integration for [Ulauncher](https://ulauncher.io/).
+* **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
 * **[pass.applescript](https://git.zx2c4.com/password-store/tree/contrib/pass.applescript)**: OS X integration
-* **[Pass for iOS](https://github.com/mssun/passforios)**: An iOS client.
-* **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS)** macOS wrapper and Safari extension.
+* **[Pass4Win](https://github.com/mbos/Pass4Win)**: An interface for Windows. (inactive)
+* **[pass_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded)**: [Albert](https://github.com/albertlauncher/albert) integration
 * **[passbar](https://gitlab.com/rperce/passbar)** Password Store integration for awesomewm.
 * **[passff](https://github.com/passff/passff)**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[passforios](https://github.com/mssun/passforios)**: Pass for iOS - an iOS client compatible with Pass command line application.
 * **[PassHUD](https://github.com/mnussbaum/PassHUD)**: A HUD-style interface for pass on macOS.
 * **[passman](https://github.com/TheAmazingPT/passman)**: A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store.
 * **[passmenu](https://git.zx2c4.com/password-store/tree/contrib/dmenu)**: Another [dmenu][https://tools.suckless.org/dmenu/]-based interface.
-* **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
-* **[Pass4Win](https://github.com/mbos/Pass4Win)**: An interface for Windows. (inactive)
-* **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[passwordstore.el](https://git.zx2c4.com/password-store/tree/contrib/emacs)**: Emacs password-store.
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper)**: A git credential helper interfacing with pass.
+* **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[pext_module_pass](https://github.com/Pext/pext_module_pass)**: Password management module for Pext.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
