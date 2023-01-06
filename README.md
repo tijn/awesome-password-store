@@ -85,6 +85,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider)**: Pass password manager search provider for gnome-shell.
+* **[gopass](https://github.com/cortex/gopass)**: Simple UI for password-store. (UNMAINTANED)
 * **[gopass-tui](https://github.com/leitzler/gopass-tui)**: Terminal UI for pass/gopass.
 * **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
@@ -110,6 +111,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pext_module_pass](https://github.com/Pext/pext_module_pass)**: Password management module for Pext.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
+* **[ripasso](https://github.com/cortex/ripasso)**: A simple password manager written in Rust.
 * **[rofi-pass](https://github.com/carnager/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
 * **[simple-pass-alfred](https://github.com/johanthoren/simple-pass-alfred)**: Alfred integration
 * **[tessen](https://sr.ht/ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data
