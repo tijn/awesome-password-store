@@ -112,6 +112,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[pext_module_pass](https://github.com/Pext/pext_module_pass)**: Password management module for Pext.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
+* **[prs](https://github.com/timvisee/prs)**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
 * **[ripasso](https://github.com/cortex/ripasso)**: A simple password manager written in Rust.
 * **[rofi-pass](https://github.com/carnager/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
