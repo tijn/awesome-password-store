@@ -96,6 +96,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-awscli](https://gitlab.com/mjsir911/pass-awscli)**:  AWS CLI credential integration
 * **[pass-companion](https://github.com/kakolisgay/pass-companion)**: Chrome/Chromium browser extension for pass.
 * **[pass-git-helper](https://github.com/languitar/pass-git-helper)**: A git credential helper interfacing with pass.
+* **[pass-simple](https://sourceforge.net/projects/pass-simple/)**: Pass-simple is a multi-platform GUI.
 * **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher)**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
