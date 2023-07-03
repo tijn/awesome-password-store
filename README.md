@@ -123,6 +123,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[upass](https://github.com/Kwpolska/upass)**: Console UI for pass.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
 * **[XMonad.Prompt.Pass](https://hackage.haskell.org/package/xmonad-contrib-0.13/docs/XMonad-Prompt-Pass.html)**: This module provides 3 XMonad.Prompt to ease passwords manipulation.
+* **[alfred-pass](https://github.com/chrisgrieser/alfred-pass)**: Feature-rich Alfred integration.
 
 ## Import scripts
 
