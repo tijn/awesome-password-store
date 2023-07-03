@@ -81,6 +81,7 @@ Additions and improvements are welcome! Please make pull-requests.
 ## Interfaces
 
 * **[alfred-pass](https://github.com/CGenie/alfred-pass)**: Alfred integration
+* **[alfred-pass](https://github.com/chrisgrieser/alfred-pass)**: Feature-rich Alfred integration.
 * **[Android-Password-Store](https://github.com/zeapo/Android-Password-Store)**: Android application compatible with ZX2C4's Pass command line application.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
@@ -122,7 +123,6 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[upass](https://github.com/Kwpolska/upass)**: Console UI for pass.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
 * **[XMonad.Prompt.Pass](https://hackage.haskell.org/package/xmonad-contrib-0.13/docs/XMonad-Prompt-Pass.html)**: This module provides 3 XMonad.Prompt to ease passwords manipulation.
-* **[alfred-pass](https://github.com/chrisgrieser/alfred-pass)**: Feature-rich Alfred integration.
 
 ## Import scripts
 
