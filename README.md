@@ -109,7 +109,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passforios](https://github.com/mssun/passforios)**: Pass for iOS - an iOS client compatible with Pass command line application.
 * **[PassHUD](https://github.com/mnussbaum/PassHUD)**: A HUD-style interface for pass on macOS.
 * **[passman](https://github.com/TheAmazingPT/passman)**: A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store.
-* **[passmenu](https://git.zx2c4.com/password-store/tree/contrib/dmenu)**: Another [dmenu][https://tools.suckless.org/dmenu/]-based interface.
+* **[passmenu](https://git.zx2c4.com/password-store/tree/contrib/dmenu)**: Another [dmenu](https://tools.suckless.org/dmenu/)-based interface.
 * **[passwordstore.el](https://git.zx2c4.com/password-store/tree/contrib/emacs)**: Emacs password-store.
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[pext_module_pass](https://github.com/Pext/pext_module_pass)**: Password management module for Pext.
