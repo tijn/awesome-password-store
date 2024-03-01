@@ -100,6 +100,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-simple](https://sourceforge.net/projects/pass-simple/)**: Pass-simple is a multi-platform GUI.
 * **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher)**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
+* **[pass-zenity](https://codeberg.org/morus/pass-zenity/)**: A zenity front for pass.
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
 * **[pass.applescript](https://git.zx2c4.com/password-store/tree/contrib/pass.applescript)**: OS X integration
 * **[Pass4Win](https://github.com/mbos/Pass4Win)**: An interface for Windows. (inactive)
