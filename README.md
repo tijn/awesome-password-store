@@ -112,6 +112,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passman](https://github.com/TheAmazingPT/passman)**: A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store.
 * **[passmenu](https://git.zx2c4.com/password-store/tree/contrib/dmenu)**: Another [dmenu](https://tools.suckless.org/dmenu/)-based interface.
 * **[passwordstore.el](https://git.zx2c4.com/password-store/tree/contrib/emacs)**: Emacs password-store.
+* **[passwordstore-menu.el](https://github.com/rjekker/password-store-menu)**: Emacs password-store with friendly user interface.
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[pext_module_pass](https://github.com/Pext/pext_module_pass)**: Password management module for Pext.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass)**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
