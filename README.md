@@ -88,6 +88,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider)**: Pass password manager search provider for gnome-shell.
 * **[gopass-tui](https://github.com/leitzler/gopass-tui)**: Terminal UI for pass/gopass.
 * **[gopass](https://github.com/cortex/gopass)**: Simple UI for password-store. (UNMAINTANED)
+* **[Identities](https://github.com/k8ieone/identities)**: Modern password-store client made for GNOME.
 * **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
