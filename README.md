@@ -121,7 +121,8 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
 * **[ripasso](https://github.com/cortex/ripasso)**: A simple password manager written in Rust.
 * **[rofi-pass](https://git.sr.ht/~mcepl/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
-* **[tessen](https://sr.ht/~ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data
+* **[rofi-pass-wayland](https://github.com/Seme4eg/rofi-pass-wayland)**: Rofi frontent for ZX2C4 pass project (wayland only).
+* **[tessen](https://sr.ht/~ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data.
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
 * **[upass](https://github.com/Kwpolska/upass)**: Console UI for pass.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
