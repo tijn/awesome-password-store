@@ -104,6 +104,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-zenity](https://codeberg.org/morus/pass-zenity/)**: A zenity front for pass.
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion)**: pass zsh completion plugin.
 * **[pass.applescript](https://git.zx2c4.com/password-store/tree/contrib/pass.applescript)**: OS X integration
+* **[pass.el](https://github.com/NicolasPetton/pass)** A major mode for password-store.
 * **[Pass4Win](https://github.com/mbos/Pass4Win)**: An interface for Windows. (inactive)
 * **[pass_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded)**: [Albert](https://github.com/albertlauncher/albert) integration
 * **[passbar](https://gitlab.com/rperce/passbar)** Password Store integration for awesomewm.
