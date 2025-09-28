@@ -82,7 +82,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * **[alfred-pass](https://github.com/CGenie/alfred-pass)**: Alfred integration
 * **[alfred-pass](https://github.com/chrisgrieser/alfred-pass)**: Feature-rich Alfred integration.
-* **[Android-Password-Store](https://github.com/zeapo/Android-Password-Store)**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store)**: Android application compatible with ZX2C4's Pass command line application.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider)**: Pass password manager search provider for gnome-shell.
