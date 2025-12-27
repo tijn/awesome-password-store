@@ -37,6 +37,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-extension-wclip](https://github.com/palortoff/pass-extension-wclip)**: a plugin to use wclip on Windows.
 * **[pass-sclip](https://github.com/Boldewyn/pass-sclip)**: A pass extension to copy to [screen](https://www.gnu.org/software/screen/)'s paste buffer.
 * **[pass-tessen](https://sr.ht/ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
+* **[select-pass-otp](https://github.com/Konfekt/select-pass-otp)**: type or copy passwords or OTPs from a menu selector in X11 or Wayland
 
 ### Output
 
