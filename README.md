@@ -88,6 +88,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[browserpass](https://github.com/browserpass/browserpass-extension)**: Chrome & Firefox browser extension for pass.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider)**: Pass password manager search provider for gnome-shell.
+* **[gopass-secret-service](https://github.com/nikicat/gopass-secret-service)**: D-Bus [Secret Service](https://specifications.freedesktop.org/secret-service/latest/) provider backed by gopass, so desktop apps (browsers, Electron apps, NetworkManager) store their secrets in the password store.
 * **[gopass-tui](https://github.com/leitzler/gopass-tui)**: Terminal UI for pass/gopass.
 * **[gopass](https://github.com/cortex/gopass)**: Simple UI for password-store. (UNMAINTANED)
 * **[Identities](https://github.com/k8ieone/identities)**: Modern password-store client made for GNOME.
@@ -100,6 +101,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-awscli](https://gitlab.com/mjsir911/pass-awscli)**:  AWS CLI credential integration
 * **[pass-companion](https://github.com/kakolisgay/pass-companion)**: Chrome/Chromium browser extension for pass.
 * **[pass-git-helper](https://github.com/languitar/pass-git-helper)**: A git credential helper interfacing with pass.
+* **[pass-secret-service](https://github.com/grimsteel/pass-secret-service)**: Implementation of org.freedesktop.secrets (D-Bus Secret Service) using pass.
 * **[pass-simple](https://sourceforge.net/projects/pass-simple/)**: Pass-simple is a multi-platform GUI.
 * **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher)**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu)**: An easy-to-use Windows interface for pass
