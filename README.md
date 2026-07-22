@@ -95,6 +95,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
+* **[parcel](https://github.com/parcel-pm/parcel)**: [Chrome](https://chromewebstore.google.com/detail/parcel/ciifpadakeohfnnneflckhojbldkkllp) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/parcel-pm/) browser extension with no external dependencies.
 * **[Pass for iOS](https://github.com/mssun/passforios)**: An iOS client.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS)** macOS wrapper and Safari extension.
 * **[pass-alfred](https://github.com/MatthewWest/pass-alfred)**: Alfred integration
