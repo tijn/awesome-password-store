@@ -36,7 +36,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[pass-extension-pclip](https://gitlab.com/lbischof/pass-extension-pclip)**: Copies meta data into primary clipboard.
 * **[pass-extension-wclip](https://github.com/palortoff/pass-extension-wclip)**: a plugin to use wclip on Windows.
 * **[pass-sclip](https://github.com/Boldewyn/pass-sclip)**: A pass extension to copy to [screen](https://www.gnu.org/software/screen/)'s paste buffer.
-* **[pass-tessen](https://sr.ht/ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
+* **[pass-tessen](https://git.sr.ht/~ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
 * **[select-pass-otp](https://github.com/Konfekt/select-pass-otp)**: type or copy passwords or OTPs from a menu selector in X11 or Wayland
 
 ### Output
@@ -129,7 +129,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[ripasso](https://github.com/cortex/ripasso)**: A simple password manager written in Rust.
 * **[rofi-pass](https://git.sr.ht/~mcepl/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
 * **[rofi-pass-wayland](https://github.com/Seme4eg/rofi-pass-wayland)**: Rofi frontent for ZX2C4 pass project (wayland only).
-* **[tessen](https://sr.ht/~ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data.
+* **[tessen](https://git.sr.ht/~ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data.
 * **[tmux-pass](https://github.com/rafi/tmux-pass)**: Quick password-store browser with preview using fzf in tmux.
 * **[upass](https://github.com/Kwpolska/upass)**: Console UI for pass.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store)**: Vim niceties for password store.
