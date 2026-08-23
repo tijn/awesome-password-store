@@ -94,6 +94,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[Identities](https://github.com/k8ieone/identities)**: Modern password-store client made for GNOME.
 * **[instantpass](https://github.com/instantos/instantpass)**: an [instantmenu](https://github.com/instantOS/instantMENU) frontend with support for pass-opt and pass-file.
 * **[krunner-pass](https://github.com/akermu/krunner-pass)**: Integrates krunner (KDE) with pass.
+* **[NativePass](https://github.com/li-nd/NativePass)**: Native SwiftUI GUI for the Unix password manager pass on macOS.
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu)**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
 * **[parcel](https://github.com/parcel-pm/parcel)**: [Chrome](https://chromewebstore.google.com/detail/parcel/ciifpadakeohfnnneflckhojbldkkllp) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/parcel-pm/) browser extension with no external dependencies.
 * **[Pass for iOS](https://github.com/mssun/passforios)**: An iOS client.
